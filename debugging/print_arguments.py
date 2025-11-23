@@ -2,4 +2,4 @@
 import sys
 
 for i in sys.argv[1:]:
-    print(arg)
+    print(i)
